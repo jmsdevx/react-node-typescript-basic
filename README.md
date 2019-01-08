@@ -1,6 +1,7 @@
 # React / NodeJs Basic Skeleton
 
-This repository is a really basic barebones development config for personal learning projects using the create-react-app on the front end, and Typescript with Node for backend configuration.
+This repository is a really basic barebones development config for personal learning projects using the create-react-app on the front end, and Typescript with Node.
+
 ##### Details
 Webpack restarts on Typescript changes and restarts the node server automatically. This is really the only custom part of the project, as the front end is using the create-react-app and still retains all those commands that are well documented.
 
